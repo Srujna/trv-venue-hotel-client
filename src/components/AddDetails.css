@@ -1,0 +1,34 @@
+.said {
+    background-color: #ebf5f5;
+}
+
+.elem {
+    font-size: 1.6rem;
+    margin: 10px;
+    align-items: center;
+}
+
+span.a {
+    display: inline;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+span.b {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+span.c {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
